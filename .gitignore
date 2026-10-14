@@ -1,0 +1,18 @@
+# Dataset mentah tidak diunggah ke GitHub
+dataset/*.csv
+dataset/*.xlsx
+dataset/*.zip
+
+# File sementara Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment dan konfigurasi lokal
+.venv/
+venv/
+.env
+
+# File sistem operasi
+Thumbs.db
+Desktop.ini
